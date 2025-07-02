@@ -31,10 +31,8 @@ Busco oportunidades de pasantía donde pueda aportar con lógica, análisis y ga
 
 ##  Contacto
 
--  johnwendel@example.com *(reemplázalo por tu correo)*
--  [LinkedIn](https://linkedin.com/in/tuusuario) *(si tienes)*  
+-  john_wendel@hotmail.com
 -  [GitHub](https://github.com/JohnWendelG)
-
 ---
 
  Gracias por visitar mi perfil. Estoy abierto a proyectos, colaboración y aprendizaje conjunto.
