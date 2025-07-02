@@ -19,7 +19,7 @@
 
 ### Sistema de Registro de Estudiantes (Java)
 Uso de listas enlazadas para almacenar y manipular información académica.  
--> [Ver proyecto](https://github.com/JohnWendelG/Proyecto-Estructuras-Java)
+-> [Ver proyecto]https://github.com/JohnWendelG/estructura-de-datos-java
 
 ---
 
