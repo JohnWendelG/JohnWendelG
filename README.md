@@ -25,7 +25,7 @@ Uso de listas enlazadas para almacenar y manipular información académica.
 
 ## Objetivo Profesional
 
-Busco oportunidades de pasantía donde pueda aportar con lógica, análisis y ganas de aprender, mientras desarrollo experiencia real en ambientes colaborativos y con impacto.
+Busco oportunidades donde pueda aportar con lógica, análisis y ganas de aprender, mientras desarrollo experiencia real en ambientes colaborativos y con impacto.
 
 ---
 
