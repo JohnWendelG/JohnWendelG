@@ -1,6 +1,6 @@
 # Hola, soy John Wendel Gómez Ebanks
 
-* Estudiante de 4to semestre de Ingeniería en Software en la Universidad de Guayaquil.  
+* Estudiante de Ingeniería en Software en la Universidad de Guayaquil.  
 * Apasionado por la programación, las estructuras de datos, y el análisis de datos.  
 * En constante aprendizaje para aplicar soluciones reales en entornos bancarios y empresariales.  
 
